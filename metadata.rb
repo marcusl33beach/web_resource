@@ -1,0 +1,6 @@
+name             'web_resource'
+maintainer       'marcusbeach.co'
+maintainer_email 'mrbeach.marcus@gmail.com'
+license          '100% OpenSource.'
+description      'Installs/Configures web_resource'
+version          '0.1.0'
